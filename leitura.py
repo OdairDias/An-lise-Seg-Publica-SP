@@ -1,2 +1,9 @@
 import pandas as pd
-# Base de dados: http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx
+import matplotlib
+
+furto_celulares= ('dados_furto_celulares.csv')
+df_furto_celulares= pd.read_csv(furto_celulares,encoding='utf-8', sep = ';')
+
+df_furto_celulares.head(5)
+print(df_furto_celulares)
+
