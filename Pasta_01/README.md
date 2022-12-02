@@ -39,5 +39,5 @@ Conseguimos também identificar os dias da semana com maior frequência de roubo
 
 ![roubo por dia da semana](https://user-images.githubusercontent.com/117185803/205316410-c3db20c0-a067-4b74-b0f7-983712de22a5.png)
 
-
+### Este trabalho ainda tem muito potencial a ser explorado, pretendo em breve voltar a este projeto com outras análises mais profundas
 
