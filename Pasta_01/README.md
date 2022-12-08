@@ -1,7 +1,6 @@
 # Análise roubo de celulares Estado de SP durante o mês de Outubro do ano 2022
 ## Objetivos:
-Este trabalho teve como objetivo fazer uma análise exploratória sobre os dados de roubo de celulares
-no Estado de SP durante o mês de outubro.
+Este trabalho teve como objetivo responder perguntas do tipo, quais as marcas de celulares mais visadas para roubo no periodo analisado? Qual período ocorrem os roubo com maior frequencia e os dias da semana? Quais as cidades, bairros e ruas onde mais ocorreram roubos no Estado de SP?  
 ## Dados:
 Utilizamos como fonte de dados o site do portal de segurança pública do Governo do Estado de Sp.
 
