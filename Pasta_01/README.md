@@ -48,8 +48,3 @@ Segue a baixo as cinco principais cidades, bairros e ruas onde tivemos mais ocor
 
 
 
-
-
-
-### Este trabalho ainda tem muito potencial a ser explorado, pretendo em breve voltar a este projeto com outras análises mais profundas
-
