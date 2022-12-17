@@ -1,7 +1,6 @@
 # Análise roubo de celulares Estado de SP durante o mês de Outubro do ano 2022
 ## Objetivos:
-Este trabalho teve como objetivo fazer uma análise exploratória sobre os dados de roubo de celulares
-no Estado de SP durante o mês de outubro.
+Este trabalho teve como objetivo responder perguntas do tipo, quais as marcas de celulares mais visadas para roubo no periodo analisado? Qual período ocorrem os roubo com maior frequencia e os dias da semana? Quais as cidades, bairros e ruas onde mais ocorreram roubos no Estado de SP?  
 ## Dados:
 Utilizamos como fonte de dados o site do portal de segurança pública do Governo do Estado de Sp.
 
@@ -39,5 +38,12 @@ Conseguimos também identificar os dias da semana com maior frequência de roubo
 
 ![roubo por dia da semana](https://user-images.githubusercontent.com/117185803/205316410-c3db20c0-a067-4b74-b0f7-983712de22a5.png)
 
-### Este trabalho ainda tem muito potencial a ser explorado, pretendo em breve voltar a este projeto com outras análises mais profundas
+### Cidades e Bairros:
+Segue a baixo as cinco principais cidades, bairros e ruas onde tivemos mais ocorrências de roubos de celulares duarante o mês de outubro deste ano.
+
+![cidade](https://user-images.githubusercontent.com/117185803/206169764-2f8039af-842f-42be-8d22-8ea557bee04b.png)
+![bairros](https://user-images.githubusercontent.com/117185803/206169840-7dfa562b-5802-4ceb-933e-531da07bb320.png)
+![rua](https://user-images.githubusercontent.com/117185803/206169862-d859f810-7eb5-4480-adf5-fcdff35eef4f.png)
+
+
 
