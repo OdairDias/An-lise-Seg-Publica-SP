@@ -45,5 +45,10 @@ Segue a baixo as cinco principais cidades, bairros e ruas onde tivemos mais ocor
 ![bairros](https://user-images.githubusercontent.com/117185803/206169840-7dfa562b-5802-4ceb-933e-531da07bb320.png)
 ![rua](https://user-images.githubusercontent.com/117185803/206169862-d859f810-7eb5-4480-adf5-fcdff35eef4f.png)
 
+# Nova análise
+
+Vamos seguir com a análise dos dados, porém desta vez sobre uma nova perspectiva
+Iremos visualizar os dados por meio de mapas 
+
 
 
